@@ -1,5 +1,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tuzimek/)
 
+<H1>Edward Tuzimek</H1>
+
 Hello, I am a Full-stack Developer specializing in:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
