@@ -14,7 +14,7 @@ Hello, I am a Full-stack Developer specializing in:
 
 Committed to excellence in every line of code. Technology enthusiast seeking new challenges and growth opportunities.
 
-<h1>About Me</h1>
+<h2>About Me</h2>
 
 😍 I am passionate about uncovering the secrets of artificial intelligence, quantum physics, and the vastness of the universe. I combine these interests with my programming skills to create innovative solutions in the field of front-end development and technology.
 <p></p>
@@ -24,7 +24,7 @@ Committed to excellence in every line of code. Technology enthusiast seeking new
 <p></p>
 👨🏻‍💻 With skills in HTML, CSS, React, JS, Node.js, and more, I'm poised to excel in this field. Ready for new challenges, I'm excited to continue pushing the boundaries of technology while embracing the richness of global cultures.
 
-<h1>Welcome to My GitHub Profile!</h1>
+<h2>Welcome to My GitHub Profile!</h2>
 
 Feel free to explore and connect with me!
 
