@@ -22,7 +22,7 @@ Committed to excellence in every line of code. Technology enthusiast seeking new
 <p></p>
 💻 I eagerly embrace business travel, seeing it as an opportunity for personal and professional growth. Engaging with diverse perspectives fuels my enthusiasm, propelling me forward in the ever-evolving field of front-end development.
 <p></p>
-👨🏻‍💻 With skills in HTML, CSS, React, JS, Node.js, and more, I'm poised to excel in this field. Ready for new challenges, I'm excited to continue pushing the boundaries of technology while embracing the richness of global cultures.
+👨🏻‍💻 With skills in HTML, CSS, React, JS, TS, Node.js, and more, I'm poised to excel in this field. Ready for new challenges, I'm excited to continue pushing the boundaries of technology while embracing the richness of global cultures.
 
 <h2>Welcome to My GitHub Profile!</h2>
 
